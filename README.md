@@ -1,8 +1,5 @@
 # Quantitative Analysis of Pizza Market
-
 ## About
-
-### Project Title: Quantitative Analysis of Pizza Market
 
 ### Problem Statement
 This project aims to analyze consumer trends and perceptions in the U.S. pizza market, focusing on two major brands: Papa John’s and Domino’s. The goal is to identify key purchase drivers, demographic influences, and to propose strategies for improving market performance for underperforming brands.
@@ -19,3 +16,5 @@ This project aims to analyze consumer trends and perceptions in the U.S. pizza m
 
 By leveraging these insights and recommendations, Papa John’s can potentially expand its market share and enhance its competitiveness in the fast-food pizza delivery industry.
 
+## Report
+The final report can be found [here](https://github.com/joeywwwu/Quantitative-Analysis-of-Pizza-Market/blob/main/Brand%20Analysis%20of%20the%20US%20Pizza%20Industry%20Report.pdf).
